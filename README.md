@@ -21,7 +21,7 @@ Here is the list of functionalities that you can find in this app:
 </ol>
 
 #### Technologies Used
-Laravel, TailwindCSS, Turbolinks
+Laravel, VueJS, TailwindCSS, Turbolinks
 
 ##### Thank You, and stay tuned for future updates.
 </div>
